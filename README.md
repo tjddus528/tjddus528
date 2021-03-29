@@ -1,4 +1,10 @@
-### Hi there 👋
+### Profile 👋
+ 
+ 소프트웨어학과 19학번 최성연
+ 
+### Activity 🌱
+
+ - 공부중 : Vue, JavaScript, python, 
 
 <!--
 **tjddus528/tjddus528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

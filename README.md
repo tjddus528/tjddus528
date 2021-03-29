@@ -4,7 +4,7 @@
  
 ### Activity 🌱
 
- - 공부중 : Vue, JavaScript, python, 
+ - 공부중 : Vue, JavaScript, python, ga, gtm, ...
 
 <!--
 **tjddus528/tjddus528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

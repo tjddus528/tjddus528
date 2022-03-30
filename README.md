@@ -1,9 +1,10 @@
 ### Profile 👋
  
- 소프트웨어학과 19학번 최성연
+ software depaerment 19, choi sungyeon
  
 ### Studying 🌱
-
+ - Java, Spring
+ - server
  - Vue, React
  - JavaScript
  - python

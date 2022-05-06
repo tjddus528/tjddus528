@@ -5,11 +5,6 @@
 ### Studying 🌱
  - Java, Spring
  - server
- - Vue, React
- - JavaScript
- - python
- - ga, gtm
- - ...
 
 <!--
 **tjddus528/tjddus528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

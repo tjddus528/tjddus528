@@ -1,6 +1,6 @@
 ### Profile 👋
  
- software depaerment 19, choi sungyeon
+ software department 19, choi sungyeon
  
 ### Studying 🌱
  - Java, Spring

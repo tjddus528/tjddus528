@@ -3,10 +3,10 @@
  software department 19, choi sungyeon
  
 ### Studying 🌱
- - javascript, react, vue
  - Java, Spring
- - server
- - cloud service
+ - server, cloud service (aws)
+ - SQL
+ - python, algorithm
 
 <!--
 **tjddus528/tjddus528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

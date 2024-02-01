@@ -2,7 +2,7 @@
  
  software department 19, choi sungyeon
 
-### Stacks 
+### Stacks ✨
 <div>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -26,7 +26,7 @@
 - 20.12-21.06 유)Freedsoft frontend intern 
 - 22.02-22.06 UMC 앱개발 동아리 2nd - Server Part
 - 22.08-22.10 구로청년이룸 모두가하드캐리 3th - Backend Part
-- 23.01-23.07 The Hague University of Applied Science in NL :flag_netherlands:
+- 23.01-23.07 The Hague University of Applied Science in NL 🇳🇱
   
 
 <!--

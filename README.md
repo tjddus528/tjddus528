@@ -26,9 +26,7 @@
 - 20.12-21.06 유)Freedsoft frontend intern 
 - 22.02-22.06 UMC 앱개발 동아리 2nd - Server Part
 - 22.08-22.10 구로청년이룸 모두가하드캐리 3th - Backend Part
-- 23.01-23.07 The Hague University of Applied Science in NL 🇳🇱
-  
-
+- 23.01-23.07 The Hague University of Applied Science in NL
 <!--
 **tjddus528/tjddus528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

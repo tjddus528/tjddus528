@@ -19,8 +19,7 @@
 
 ### Studying 🌱
  - Java, Spring, cloud service
- - python, CS, algorithm
- - DB: SQL, mongoDB
+ - python, CS, algorithm, SQL
 
 ### Activities 
 - 20.12-21.06 유)Freedsoft frontend intern 

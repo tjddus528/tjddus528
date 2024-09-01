@@ -1,6 +1,9 @@
+### *"If you don't lose your goal, you'll arrive at some point, even if it's slow"*
+
 ### Profile 👋
+
+ Server Developer, Choi Sungyeon
  
- software department 19, choi sungyeon
 
 ### Stacks ✨
 <div>
@@ -18,15 +21,19 @@
 </div>
 
 ### Studying 🌱
- - Java, Spring, cloud service
- - python, CS, algorithm, SQL
+ - Java, Kotlin, Spring Boot, JPA, QueryDSL TDD, DDD
+ - Redis, Elasticsearch, Lambda, Docker
+ - Monitoring System, Error Handling
 
 ### Activities 
-- (20.12-21.06)ㅤFreedsoft frontend intern 
-- (22.02-22.06)ㅤUMC 2nd - Server Part
-- (22.08-22.10)ㅤ모두가하드캐리3th - Backend Part
+- (24.04- now) ㅤ소프트웨어 마에스트로 15기
 - (23.01-23.07)ㅤThe Hague University of Applied Science in NL
-- (24.04- now) ㅤSoftware Maestro 15th
+- (22.08-22.10)ㅤ모두가하드캐리 3기 - Backend Part
+- (22.02-22.06)ㅤUMC 2기 - Server Part
+- (20.12-21.06)ㅤFreedsoft - Frontend intern
+- (19.03-24.08) 세종대학교 소프트웨어학과 졸업
+
+
 <!--
 **tjddus528/tjddus528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

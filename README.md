@@ -1,5 +1,3 @@
-### *"If you don't lose your goal, you'll arrive at some point, even if it's slow"*
-
 ### Profile 👋
 
  Server Developer, Choi Sungyeon

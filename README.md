@@ -30,10 +30,6 @@
 - 22.02-22.06ㅤUMC 2기 - Server Part
 - 20.12-21.06 ㅤFreedsoft - Frontend intern
 - 19.03-24.08ㅤ세종대학교 소프트웨어학과 졸업
-
-### Tech Blog 🔍
-https://better-tomorrow-note.tistory.com
-
 <!--
 **tjddus528/tjddus528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -24,12 +24,12 @@
  - Monitoring System, Error Handling
 
 ### Activities 🕺
-- 24.04-24.12 ㅤ소프트웨어 마에스트로 15기
+- 24.04-24.12 ㅤ소프트웨어 마에스트로 15기 수료
 - 23.01-23.07ㅤThe Hague University of Applied Science in NL
 - 22.08-22.10ㅤ모두가하드캐리 3기 - Backend Part
 - 22.02-22.06ㅤUMC 2기 - Server Part
 - 20.12-21.06 ㅤFreedsoft - Frontend intern
-- 19.03-24.08ㅤ세종대학교 소프트웨어학과 졸업
+- 19.03-24.08ㅤ세종대학교 소프트웨어학과
 <!--
 **tjddus528/tjddus528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

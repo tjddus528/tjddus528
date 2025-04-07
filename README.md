@@ -35,7 +35,7 @@
 ### 🏋🏻 Activities 
 - 24.04-24.12ㅤ SW 마에스트로 15기 수료
 - 23.01-23.07ㅤ The Hague University of Applied Science in NL
-- 22.08-22.10ㅤ 모두가하드캐리 3기 - Backend Part
+- 22.08-22.10ㅤ 모두가하드캐리 3기 - Backend
 - 22.02-22.06ㅤ UMC 2기 - Server Part
 - 21.03-21.07ㅤ SAI(Sejong Artificial Intelligence) 4기
 - 20.12-21.06 ㅤFreedsoft - Frontend intern

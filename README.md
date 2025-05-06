@@ -26,6 +26,7 @@
  - Spring Boot, Spring Batch, Spring Security
  - Database, MySQL, JPA, QueryDSL
  - AWS, Docker
+ - Elasticsearch
 
 ### 🔍 Interesting 
 - Architecture, Clean Code

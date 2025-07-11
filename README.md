@@ -25,7 +25,7 @@
  - Java, python
  - Spring Boot, Spring Batch, Spring Security
  - Database, MySQL, JPA, QueryDSL
- - AWS, Docker
+ - AWS, GCP, Docker
  - Elasticsearch
 
 ### 🔍 Interesting 

@@ -34,8 +34,8 @@
 - User Service
 
 ### 🏋🏻 Activities 
-- 25.05-nowㅤㅤYAPP 26기 BE
-- 25.03-25.06ㅤ멋쟁이 사자처럼 BE+ 4기 수료
+- 25.05-25.08ㅤㅤYAPP 26기 BE
+- 25.03-25.06ㅤ 멋쟁이 사자처럼 BE+ 4기 수료
 - 24.04-24.12ㅤ SW 마에스트로 15기 수료
 - 23.01-23.07ㅤ The Hague University of Applied Science in NL
 - 22.08-22.10ㅤ 모두가하드캐리 3기 - Backend
